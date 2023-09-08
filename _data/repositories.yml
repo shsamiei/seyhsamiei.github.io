@@ -1,12 +1,9 @@
 github_users:
-  - mh-malekpour
+  - shsamiei
 
 github_repos:
-  - AUT-Twitter-Analytics/Streamlit-Dashboard
-  - DailyDiet/DailyDiet-API
-  - mh-malekpour/Chat-Harassment-Detection
-  - mh-malekpour/Persian-Spam-Detection
-  - mh-malekpour/Bank-Loan-Modelling
-  - mh-malekpour/NER
-  - mh-malekpour/Houzz-Scrapy
-  - mh-malekpour/Charity
+  - shsamiei/Handwritten_detector
+  - shsamiei/concurrent_pow
+  - shsamiei/cryptography_implemention_RSA
+  - shsamiei/shortener
+  

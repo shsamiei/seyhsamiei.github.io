@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Mohammadhossein Malekpour
+      value: Seyyed Hossein Samiei
     - name: Date of Birth
-      value: 29th April 1998
+      value: 27th April 2002
     - name: Languages
       value: English, Persian
 
@@ -13,100 +13,114 @@
   contents:
     - title: Bachelor of Science in Computer Science
       institution: AmirKabir University of Technology (Tehran Polytechnic)
-      year: 2017 - 2022
+      year: 2020 - 2024
       description:
-        - last two-year GPA = 3.67/4
-    - title: Minor in Economics
-      institution: AmirKabir University of Technology (Tehran Polytechnic)
-      year: 2021 - 2022
+        - GPA = 3.46/4
+        - Thesis =  Enhancing Privacy in Decentralized Oracles using Homomorphic Encryption.
+        - Ranked Within the Top 1% (among 144,437 students) in Iranian University Entrance﻿ Exam.
+
+
+- title: Academic Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: Amirkabir University of Technology
+      year: 08/2021 – Present
       description:
-        - overall GPA (15 credit) = 4/4
+        - Introduction to Cryptography | Dr. Mohammad Ali
+        - Principles of Software Design | Dr. Ehsan Alirezaei
+        - Introduction to Programming in C | Dr. Sara Saeedi Madani
+        - Advanced Programming in Python, | Dr. Mohammad Asgaripour
+        - Advanced Programming in Python, | Dr. Farzane Salary
+
+
+    - title: Undergraduate Research Assistant
+      institution: Cryptography laboratory - Amirkabir University of Technology
+      year: 07/2023 – Present
+      description:
+        - Working under supervision of Dr. Mohammad Ali for my bachelor thesis.
+        - Enhancing blockchain oracle design for improved user privacy and data integrity.
+        - Researched and reviewed applications of homomorphic encryption and decentralized oracle
+        - Chainlink 2.0 Next Steps in the Evolution of Decentralized Oracle Networks
+        - DECO Liberating Web Data Using Decentralized Oracles for TLS
+        - TLSnotary A mechanism for independently audited https sessions
+
+    - title: Undergraduate Research Assistant
+      institution: Amirkabir University of Technology
+      year: 04/2023 – 07/2023
+      description:
+        - Worked under supervision of Dr. Babak Sadeghian and Dr. Motahare Dehghan
+        - Exploring anomaly detection techniques to proactively identify and mitigate vulnerabilities in blockchain-based systems through threat hunting.
+        - Researched and reviewed Threat Hunting in Blockchain
+        - A Deep Learning Model for Threat Hunting in Ethereum Blockchain
+        - Generative Adversarial Networks for Threat Hunting in Ethereum Blockchain
+        - The Foundations of Threat Hunting(Organize and design effective threat hunts)
+
+
 
 - title: Professional Experience
   type: time_table
   contents:
-    - title: Data Analyst
-      institution: Divar
-      year: June 2022 - Present
+    - title: Blockchain Engineer
+      institution: Nexarae
+      year: June 2023 - Present
       description:
-        - Divar is a classified ads and e-commerce online platform for users in Iran with 30 million monthly active users.
-        - Perform analysis on a wide variety of big data and process improvement opportunities; uncover trends, create and distribute various metrics, reports, dashboards, and building predictive models.
+        - Nexarae is an upcoming decentralized oracle service designed to empower blockchain applications with real-world data, advanced off-chain computations, and privacy-preserving nature.
+        - Implementing core smart contracts for Nexarae.
+        - Simulating the network to find the optimal configuration of Nodes.
 
-    - title: Data Science Intern
-      institution: Hesaba
-      year: Sep 2020 - Nov 2020
+    - title: Backend Software Engineer
+      institution: Shopino
+      year: 01/2023 – 06/2023
       description:
-        - The internship focused on principles of data science using R programming language and Tidyverse packages.
+        - Shopino is an emerging startup spun out of Yektanet, the leading digital marketing firm with a cutting-edge technical team.
+        - Architect and implement a web scraping system for crawling data from designated online resources. Leveraging Scrapy, Apache Kafka, and Celery.
+        - Built a collision-resistant shortened URL service truncating links to 6 characters for Optimize SMS advertising costs.
+        - This enabled immense cost reductions of over 80%.
 
-    - title: Python Developer Intern
-      institution: Segmentino
-      year: Jun 2020 - Mar 2020
+    - title: Backend Software Engineer
+      institution: Javane
+      year: 8/2022 – 11/2022
       description:
-        - Segmentino is a marketing automation platform.
-        - Contributed to journey-designer product and developed some Python packages.
-        - I experienced working with Apache-Airflow, Docker, and modular programming in Python.
+        - Developed secure extension for Divar platform using cryptography tools to enable safe peer- to-peer transactions.
+        - Designing microservices and software architecture.
+        - The secure extension feature provided vital fraud protections for buying and selling second hand digital goods.
       
 
-    - title: Software Engineer Intern
-      institution: IPM Institute For Research In Fundamental Sciences}{Tehran, Iran
-      year: Jul 2019 - Sep 2019
+    - title: Software Engineer (Full-stack developer)
+      institution: Freelance
+      year: 9/2019 – 1/2021
       description:
-        - I worked at the Iranian national observatory project's TDD (Technical Development Division).
-        - I experienced working with pure Python, MySQL, and Flask for the weather-station project.
+        - An early undertaking was developing backend systems for CWS event.
+        - Architecting registration infrastructure capable of handling substantial load.
+        - Delivered 4+ projects
 
-
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Undergraduate Teaching Assistant
-      institution: AmirKabir University of Technology (Tehran Polytechnic)
-      year: Feb 2020 - Jan 2022
-      description:
-        - Machine Learning (MSc course) | Dr. Mohammad Akbari
-        - Applied Data Science (MSc course at TeIAS) | Dr. Amir Hesam Salavati
-        - Fundamentals of Programming in C | Dr. Mohammad Akbari
-        - Principle of Software Design | Dr. Amin Gheibi
-        - Advanced Programming in Python | Dr. Morteza Kouhsar
-        - Advanced Programming in Python | Dr. Javad Mohammadzadeh
-        - Principle of Software Design | Dr. Javad Mohammadzadeh
-
-    - title: Head Teaching Assistant
-      institution: CS50x Iran
-      year: Aug 2020 - Apr 2022
-      description:
-        - We taught CS50x in Iran, a Harvard course about introduction to computer science and the art of programming. I translated and customized CS50's original contents and taught the web track in CS50x 2020. Also, I held all TA sessions in CS50x 2021 and was the head teaching assistant of the CS50 web 2022 course.
 
 
 - title: Technical Skills
   type: list
   contents:
-    - Languages = Python, R, SQL, C/C++, Bash
-    - Frameworks = PyTorch, Spark MLib, Flask, FastAPI
-    - Libraries = PySpark, Scikit-Learn, Pandas, NumPy, Seaborn, Plotly, Tidyverse
-    - Developer Tools = Git, Bash, Docker, VSCode, PyCharm, Metabase
+    - Languages = Python, Solidity, Javascript, C, C++, Bash
+    - Frameworks = Node.js, Django, Scrapy, FastAPI
+    - Databases = PostgreSQL, MongoDB, Redis, Elasticsearch
+    - Developer Tools = Nginx, Docker, Apache Kafka, Git, Latex
 
 
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Artificial intelligence
-      items: 
-        - Machine Learning
-        - Deep Learning
-        - Computer Vision
-        - NLP
-        - Recommender Systems
-        - AIOps/MLOps
     - title: Software Engineering
-      items:
-        - Data Management & Big Data
+      items: 
+        - Blockchain
         - Parallel & Distributed Systems
         - Cloud Computing
+        - Applied Cryptography
+        
 
 
 - title: Other Interests
   type: list
   contents:
     - Crypto & Finance
-    - Formula 1
-    - Football (FCBarcelona)
+    - Football (FC Liverpool)
+    - Video Game 

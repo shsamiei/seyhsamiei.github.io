@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2020-08-1 08:00:00-0400
+date: 2023-06-1 08:00:00-0400
 inline: true
 ---
-
-We lunch CS50x course in Iran which is a Harvard course about introduction to intellectual enterprises of computer science and the art of programming. 
+I recently left Shopino company and have just started a new journey in Nexarae company. Good news is coming soon!
